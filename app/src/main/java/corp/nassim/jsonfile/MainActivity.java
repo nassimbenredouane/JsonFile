@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
         boolean gps_enabled = false;
 
         ArrayList<LocationProvider> providers = new ArrayList<LocationProvider>();
-        azerty
+
 
         List<String> names = locationManager.getProviders(true);
         try {
